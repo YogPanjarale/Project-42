@@ -2,7 +2,7 @@
 
 function createItem(){
       const grid=document.querySelector('#grid')
-      console.log(grid)
+      console.log(grid+"kdkma")
         var chameleon=Template.card("Chameleon","Interesting Facts about Chameleon"
         ,"Chameleons are reptiles that are part of the iguana suborder",
         "Changing skin color is an important part of communication among chameleon",
