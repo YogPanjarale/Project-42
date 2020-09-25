@@ -46,7 +46,8 @@ h1{
 }
 .headline{
     margin:2em;
-    background-color:#f1f1f1f1;
+   background: url('http://i.stack.imgur.com/jGlzr.png') repeat 0 0 scroll;    border: 1rem solid #5e5a5d ;
+    background-color:#0C0C0C;
     border: 1rem solid #5e5a5d ;
     text-align: center;
     padding:2em;
